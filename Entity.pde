@@ -1,5 +1,5 @@
 // Processing-GDUB -- Entity.pde
-// Developed by Spencer W. Smith
+// Developed by Sage Smith
 // Last updated 29 December 2022
 class Entity {
     HashMap<String,Component> components;
