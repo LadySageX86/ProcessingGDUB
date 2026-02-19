@@ -1,5 +1,5 @@
 // Processing-GDUB -- Component.pde
-// Developed by Spencer W. Smith 
+// Developed by Sage Smith 
 // Last updated 5 January 2023
 interface Component<T> {
     void Draw(Entity e);
